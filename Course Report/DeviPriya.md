@@ -24,7 +24,7 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects: 1.Student Management System	
-		 2.Covid 19 Data Analysis   | [Click here](https://github.com/sure-trust/G28_Python/tree/main/Mini%20Projects/Devi%20priya)                         |
+		 2.Covid 19 Data Analysis   | [Click here](https://github.com/sure-trust/G28_Python/tree/main/Mini%20Projects/Devi%20priya)                            |
 | Final Project: 1.Flight Fare Prediction
   2.Estimating Insurance Claim Amounts
   3.Music Mood Analysis
