@@ -11,9 +11,9 @@
 
 # Course Report
 
-## Name: G.Devi Priya
+## Name: Devi Priya
 
-## Qualifications: Pursuing BTech 3rd Year
+## Qualifications: Pursuing BTech 3rd year
 
 Welcome to the course report for the Python & Machine Learning Basic Applications! This README document provides an overview of the course, its mini projects and final project.
 
@@ -23,9 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: 1.Student Management System	
-		 2.Covid 19 Data Analysis   | [Click here](https://github.com/sure-trust/G28_Python/tree/main/Mini%20Projects/Devi%20priya)                            |
-| Final Project: 1.Flight Fare Prediction
-  2.Estimating Insurance Claim Amounts
-  3.Music Mood Analysis
-  4.Thyroid Disease Detection               | [Click here](https://github.com/sure-trust/G28_Python/tree/main/Final%20Capstone%20Project/Devi%20Priya)                        |
+| Mini Projects: Student Management System,Covid 19 Data Analysis     | [click here](https://github.com/sure-trust/G28_Python/tree/main/Mini%20Projects/Devi%20priya)                         |
+| Final Project: Flight Fare Prediction,Estimating Insurance Claim Amounts,Music Mood Analysis,Thyroid Disease Detection     | [click here](https://github.com/sure-trust/G28_Python/tree/main/Final%20Capstone%20Project/Devi%20Priya)                         |
