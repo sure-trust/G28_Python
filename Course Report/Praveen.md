@@ -6,14 +6,14 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> Python & Machine Learning Basic Applications </h2>
+  <h2> Python & Machine Learning Basic Applications</h2>
 </div>
 
 # Course Report
 
-## Name:Grandhi Chakri Sai Sriram
+## Name: Praveen Tripurari
 
-## Qualifications:pursuing B-tech 3rd year 
+## Qualifications: Pursuing BTech 3rd year
 
 Welcome to the course report for the Python & Machine Learning Basic Applications! This README document provides an overview of the course, its mini projects and final project.
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Hospital Management System, Data Analysis on :California Housing Price    | [click here](https://github.com/sure-trust/G28_Python/tree/main/Mini%20Projects/Chakri%20Grandhi)                         |
-| Final Project:Employee Attrition Prediction,Estimating Car Fuel Efficiency,Customer Churn Prediction     | [click here](https://github.com/sure-trust/G28_Python/tree/main/Final%20Capstone%20Project/Chakri%20Grandhi)                         |
+| Mini Projects: Library Management,Data Analysis Project on Heart Disease Dataset   | [click here](https://github.com/sure-trust/G28_Python/tree/main/Mini%20Projects/Praveen)                        |
+| Final Project: Machine Learning based on Customer Segmentation for E-commerce,Insurance Premium Prediction,Predicting App Ratings   | [click here](https://github.com/sure-trust/G28_Python/tree/main/Final%20Capstone%20Project/Praveen)                         |
