@@ -13,7 +13,7 @@
 
 ## Name:Pullareddygari Harika
 
-## Qualifications: Pursuing 3rd Year Btech
+## Qualifications: Pursuing BTech3rd Year 
 
 Welcome to the course report for the Python & Machine Learning Basic Applications! This README document provides an overview of the course, its mini projects and final project.
 
@@ -23,8 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects:1.College Management System
-		 2.Crop data analysis     | [click here](https://github.com/sure-trust/G28_Python/tree/main/Mini%20Projects/Pullareddygari%20Harika)                         |
-| Final Project: 1.Scania Truck Failures
-		  2.Estimating Insurance Claim Amounts
-		  3.Identify credit risk profiles by clustering     | [click here](https://github.com/sure-trust/G28_Python/tree/main/Final%20Capstone%20Project/Pullareddygari%20Harika)                         |
+| Mini Projects:College Management System,Crop data analysis     | [click here](https://github.com/sure-trust/G28_Python/tree/main/Mini%20Projects/Pullareddygari%20Harika)                         |
+| Final Project:Scania Truck Failures,Estimating Insurance Claim Amounts,Identify credit risk profiles by clustering     | [click here](https://github.com/sure-trust/G28_Python/tree/main/Final%20Capstone%20Project/Pullareddygari%20Harika)                         |
