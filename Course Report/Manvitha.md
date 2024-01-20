@@ -11,9 +11,9 @@
 
 # Course Report
 
-## Name:Grandhi Chakri Sai Sriram
+## Name: Yaraveda Manvitha
 
-## Qualifications:pursuing B-tech 3rd year 
+## Qualifications: Pursuing B-Tech 3rd year
 
 Welcome to the course report for the Python & Machine Learning Basic Applications! This README document provides an overview of the course, its mini projects and final project.
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Hospital Management System, Data Analysis on :California Housing Price    | [click here](https://github.com/sure-trust/G28_Python/tree/main/Mini%20Projects/Chakri%20Grandhi)                         |
-| Final Project:Employee Attrition Prediction,Estimating Car Fuel Efficiency,Customer Churn Prediction     | [click here](https://github.com/sure-trust/G28_Python/tree/main/Final%20Capstone%20Project/Chakri%20Grandhi)                         |
+| Mini Projects: QUIZ Application,Data Analysis on Employee Attrition     | [click here](https://github.com/sure-trust/G28_Python/tree/main/Mini%20Projects/Manvitha)                        |
+| Final Project: ML projects on Credit Card Default Prediction,Predicting Air Quality,Cluster health data to identify patient groups or disease patterns.     | [click here](https://github.com/sure-trust/G28_Python/tree/main/Final%20Capstone%20Project/Manvitha)                        |
