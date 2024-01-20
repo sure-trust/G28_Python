@@ -11,9 +11,9 @@
 
 # Course Report
 
-## Name: Nagalingam Harika
+## Name: Devi Priya
 
-## Qualifications: Pursuing Btech 3rd year
+## Qualifications: Pursuing BTech 3rd year
 
 Welcome to the course report for the Python & Machine Learning Basic Applications! This README document provides an overview of the course, its mini projects and final project.
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: E-Commerce System,Wine Quality    | [Click here](https://github.com/Nharika41/G28_Python/tree/main/Mini%20Projects/Harika)                         |
-| Final Project: Estimating Car Prices, German Credit Prediction, Hotel Recommendation     | [Click here](https://github.com/sure-trust/G28_Python/tree/main/Final%20Capstone%20Project/Harika)                         |
+| Mini Projects: Student Management System,Covid 19 Data Analysis     | [click here](https://github.com/sure-trust/G28_Python/tree/main/Mini%20Projects/Devi%20priya)                         |
+| Final Project: Flight Fare Prediction,Estimating Insurance Claim Amounts,Music Mood Analysis,Thyroid Disease Detection     | [click here](https://github.com/sure-trust/G28_Python/tree/main/Final%20Capstone%20Project/Devi%20Priya)                         |
