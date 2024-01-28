@@ -17,7 +17,21 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 ## Python Course Registration
 
-To enroll in the Python, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/43)
+To enroll in the Python, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
+
+|StudentName | link|
+|------------|------|
+|Devi Priya|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/DeviPriya_G.md)|
+|Diwakar|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/Diwakar.md)|
+|Sravana|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/M.Sravana%20Ramya)|
+|Manvitha|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/Manvitha.md)|
+|N Harika|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/N%20Harika.md)|
+|P Harika|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/P%20Harika.md)|
+|Praveen|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/Praveen.md)|
+|Sravana Ramya|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/Sravana%20Ramya%20Mamidala.md)|
+|Srihitha|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/Srihitha.md)|
+|Chakri Grandhi|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/chakri%20grandhi.md)|
+
 
 
 ## Repository Description
@@ -33,4 +47,3 @@ Feel welcome to navigate through each designated folder to access specific, targ
 We encourage collaboration and participation from all learners. If you have any questions, suggestions, or improvements to contribute, please don't hesitate to get involved.
 
 For any inquiries or necessary assistance, we encourage you to connect with SURE Trust via our [official website](https://suretrustforruralyouth.com/). Your queries will be promptly addressed by our dedicated team.
-# G28_PYTHON
