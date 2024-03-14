@@ -24,4 +24,4 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects: QUIZ Application,Data Analysis on Employee Attrition     | [click here](https://github.com/sure-trust/G28_Python/tree/main/Mini%20Projects/Manvitha)                        |
-| Final Project: ML projects on Credit Card Default Prediction,Predicting Air Quality,Cluster health data to identify patient groups or disease patterns.     | [click here](https://github.com/sure-trust/G28_Python/tree/main/Final%20Capstone%20Project/Manvitha)                        |
+| Final Project: ML projects on Credit Card Default Prediction,Predicting Air Quality,Cluster health data to identify patient groups or disease patterns.     | [click here](https://github.com/sure-trust/G28_Python/tree/main/Final%20Capstone%20Project/Manvitha)      |
