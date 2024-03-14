@@ -11,11 +11,11 @@
 
 # Course Report
 
-## Name: [A M V Diwakar]
+## Name: A M V Diwakar
 
-## Qualifications: [pursuing B-TECH 3rd Year]
+## Qualifications: pursuing B-TECH 3rd Year
 
-Welcome to the course report for the [Python and Machine Learning Basic Applications ]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the Python and Machine Learning Basic Applications ! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Car Rental Systems,Data Analysis on:London Bike Sharing Analysis     | [Click Here] (https://github.com/sure-trust/G28_Python/tree/main/Mini%20Projects/Diwakar)                        |
-| Final Project: predicting wine quality,Travel package purchase prediction,Employee performance analysis     | [Click Here]  (https://github.com/sure-trust/G28_Python/tree/main/Final%20Capstone%20Project/Diwakar)                       |
+| Mini Projects: Car Rental Systems,Data Analysis on:London Bike Sharing Analysis     | [Click Here](https://github.com/sure-trust/G28_Python/tree/main/Mini%20Projects/Diwakar)                        |
+| Final Project: predicting wine quality,Travel package purchase prediction,Employee performance analysis     | [Click Here](https://github.com/sure-trust/G28_Python/tree/main/Final%20Capstone%20Project/Diwakar)                       |
