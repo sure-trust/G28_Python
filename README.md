@@ -23,16 +23,11 @@ To enroll in the Python, please visit the official SURE Trust website: [Course R
 |------------|------|
 |Devi Priya|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/DeviPriya_G.md)|
 |Diwakar|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/Diwakar.md)|
-|Sravana|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/M.Sravana%20Ramya)|
 |Manvitha|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/Manvitha.md)|
 |N Harika|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/N%20Harika.md)|
 |P Harika|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/P%20Harika.md)|
 |Praveen|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/Praveen.md)|
-|Sravana Ramya|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/Sravana%20Ramya%20Mamidala.md)|
 |Srihitha|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/Srihitha.md)|
-|Chakri Grandhi|[Click here](https://github.com/sure-trust/G28_Python/blob/main/Course%20Report/chakri%20grandhi.md)|
-
-
 
 ## Repository Description
 
